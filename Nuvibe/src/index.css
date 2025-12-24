@@ -10,8 +10,8 @@
 
 @theme {
   --font-sans: "Pretendard", -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", sans-serif;
-  --color-Black : #121212;
-  --color-White : #FAFAFA;
+  --color-black : #121212;
+  --color-white : #FAFAFA;
   --color-gray-100 : #7D7D7D;
   --color-gray-200 : #D0D3D7;
   --color-gray-300 : #E3E3E3;
@@ -23,7 +23,7 @@
 }
 
 html,body {
-  background-color: var(--color-Black);
+  background-color: var(--color-black);
 
   /* iOS의 노치(상단바) 및 하단 홈 바 영역 대응 */
   padding-top: env(safe-area-inset-top);
