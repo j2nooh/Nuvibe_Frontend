@@ -50,11 +50,17 @@ const LoginPage = () => {
               bg-gray-800
             "
             />
-          <div className="flex mb-4">
-            <input type="checkbox"
-              className="w-[12px] h-[12px] rounded-[3px] border-[0.79px] border-gray-400 checked:bg-blue-600 checked:border-transparent"/>
-            <div className="text-[12px]">아이디 저장</div>
-            <div className="text-[12px]">비밀번호를 잊어버리셨나요?</div>
+          <div className="flex justify-between items-center mb-4 text-[12px]">
+            <div className="flex items-center gap-2">
+              <input
+                type="checkbox"
+                className="appearance-none w-[12px] h-[12px] rounded-[3px] border-[0.79px] border-gray-500 bg-transparent checked:bg-gray-800 checked:border-transparent focus:ring-0 focus:ring-offset-0"
+              /> {/* CheckIcon 필요 */}
+              <div>아이디 저장</div>
+            </div>
+            <div className="cursor-pointer hover:underline">
+              비밀번호를 잊어버리셨나요?
+            </div>
           </div>
           <button 
             className="
