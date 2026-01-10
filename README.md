@@ -1,7 +1,7 @@
 # ก Nuvibe
 <p> NuVibe는 이미지를 태그로 기록해 취향을 쌓고, 같은 감각을 가진 사람들과 연결되는 아카이브 기반 네트워킹 서비스입니다. </p>
-
-
+<p> 팀 레포지토리 이전 : https://github.com/Team-Nuvibe/FE </p>
+  
 ## ⚙ 기술 스택
 <p>
   <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
