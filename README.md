@@ -1,7 +1,21 @@
 # ก Nuvibe
 <p> NuVibe는 이미지를 태그로 기록해 취향을 쌓고, 같은 감각을 가진 사람들과 연결되는 아카이브 기반 네트워킹 서비스입니다. </p>
-<p> 팀 레포지토리 이전 : https://github.com/Team-Nuvibe/FE </p>
-  
+
+## ⚠️ Repository Moved & Archived
+
+이 레포지토리는 **Nuvibe 통합 프로젝트** 관리 및 FE-BE 협업 효율화를 위해 새로운 통합 레포지토리로 이전되었습니다.  
+모든 최신 소스 코드와 개발 진행 사항은 아래의 공식 레포지토리에서 확인하실 수 있습니다.
+
+### 🚀 새로운 레포지토리 주소
+👉 **[Team-Nuvibe/FE](https://github.com/Team-Nuvibe/FE)**
+
+### 📅 이전 및 통합 정보
+- **이전 날짜:** 2026.01.06
+- **이전 사유:** 프론트엔드 및 백엔드 프로젝트 관리 일원화
+- **참고 사항:** 기존의 모든 커밋 히스토리는 통합 레포지토리로 이관되었습니다.
+
+> **Note:** 본 레포지토리는 기록 보관(Archive)용으로만 유지되며, 더 이상의 업데이트는 진행되지 않습니다.
+
 ## ⚙ 기술 스택
 <p>
   <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
@@ -16,9 +30,8 @@
   <img src="https://img.shields.io/badge/FRAMER MOTION-1E5397?style=flat-square&logo=framermotion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Zustand-FF8800?style=flat-square&logo=Zustand&logoColor=white"/>
   <img src="https://img.shields.io/badge/immer-FF8800?style=flat-square&logo=immer&logoColor=white"/>
-  date-fns
 </p>
-  
+
 ## 📌 GitHub Convention
 ### 📝 Commit
 - 작은 단위로 커밋, 유형은 **영어 대문자** 작성
